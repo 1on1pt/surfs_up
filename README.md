@@ -77,7 +77,7 @@ Based on the precipitation and temperature data presented for Oahu, an argument 
 * Precipitation is, on average, **18%**, and the likelihood of a rainout would be minimal
 * Temperature is, on average, in the **70's**, thus warm enough for both surfing and selling ice cream
 
-If the board was still not convinced that this would be a good business proposition, then additional queries could be made:
+If the board was still not convinced that this would be a good year round business proposition, then additional queries could be made:
 * Query to further analyze the precipitation in the Spring and Fall to include the months of March and Septmber
 * Query to further analyze the temperature in the Spring and Fall to include the months of March and September
 * Access Oahu tourism databases to determine vacationer travel patterns to determine which time of year is busy and not so busy
