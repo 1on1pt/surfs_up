@@ -59,10 +59,18 @@ June and December temperature data proved to be very similar:
 * The **minimum temperature** was fairly similar, with December being 8 degrees cooler:  June = 64.0 F vs. December 56.0 F
 * The **maximum temperature** was similar:  June = 85.0 F vs. December = 83.0 F
 
+### Deeper Dive Considering June vs. December Precipitation
+With the temperature analysis completed, here is one last look at the June and December data focusing on **precipitation**.
 
+**June Precipitation Data**
 
+![image](https://user-images.githubusercontent.com/94148420/154860123-ad5b55a8-ce2c-466f-b2f5-fabcf6ee43ed.png)
 
+**December Precipitation Data**
 
+![image](https://user-images.githubusercontent.com/94148420/154860171-0e368a70-c7da-499b-a317-1e499ba6f934.png)
+
+June gets precipitation about 14% of the time, whereas December has precipitation about 21.7% of the time.  December is slightly wetter than June, but still is fairly strong time of year when considering it **is dry 78.3% of the time**.
 
 ## Summary
 
