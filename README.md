@@ -33,7 +33,7 @@ Descriptive statistics regarding precipitation in Oahu:
 
 ![image](https://user-images.githubusercontent.com/94148420/154858477-92d1a1b4-de5f-409e-87c7-0026fe86e42d.png)
 
-Graph depicting the precipitation measures and date in Oahu:
+Graph depicting the precipitation and date in Oahu:
 
 ![image](https://user-images.githubusercontent.com/94148420/154858600-3b0f2e9e-f960-4826-a1a1-e48735f2e971.png)
 
