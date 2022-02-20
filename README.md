@@ -27,7 +27,7 @@ Software:
 The results will include data and analysis of precipitation and temperature.
 
 ### Precipitation Analysis
-The reason why W. Avy's surf shop failed was primarly due to the amount of precipitation that the location of the shop recieved.  Based on an analysis of data that spanned the timeframe of August 23, 2016 through August 23, 3017, Oahu recieved precipitation approximately **18%** of the time, and thus **it was dry 82% of the time**.  When considering precipation alone, Oahu would be a good location because it is without precipitation 82% of the time.
+The reason why W. Avy's surf shop failed was primarly due to the amount of precipitation that the location of the shop received.  Based on an analysis of data that spanned the timeframe of August 23, 2016 through August 23, 3017, Oahu recieved precipitation approximately **18%** of the time, and thus **it was dry 82% of the time**.  When considering precipation alone, Oahu would be a good location because it is without precipitation 82% of the time.
 
 Descriptive statistics regarding precipitation in Oahu:
 
