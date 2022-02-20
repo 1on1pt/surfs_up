@@ -52,6 +52,14 @@ Further analysis regarding year round temperature data on Oahu was performed pul
 
 ![image](https://user-images.githubusercontent.com/94148420/154859367-bdf831cd-ea79-45ef-ba70-b2efddaa50e9.png)
 
+June and December temperature data proved to be very similar:
+* The **total counts** were similar: June = 1700 vs. December = 1517
+* The **mean temperature** was similar, with December being slightly cooler:  June = 74.9 F vs. December 71.0 F
+* The **standard deviation** between temperatures was similar, with December slightly higher:  June = 3.26 vs. December 3.74
+* The **minimum temperature** was fairly similar, with December being 8 degrees cooler:  June = 64.0 F vs. December 56.0 F
+* The **maximum temperature** was similar:  June = 85.0 F vs. December = 83.0 F
+
+
 
 
 
