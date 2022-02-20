@@ -70,8 +70,17 @@ With the temperature analysis completed, here is one last look at the June and D
 
 ![image](https://user-images.githubusercontent.com/94148420/154860171-0e368a70-c7da-499b-a317-1e499ba6f934.png)
 
-June gets precipitation about 14% of the time, whereas December has precipitation about 21.7% of the time.  December is slightly wetter than June, but still is fairly strong time of year when considering it **is dry 78.3% of the time**.
+June gets precipitation about 14% of the time, whereas December has precipitation about 21.7% of the time.  December is slightly wetter than June, but still is a fairly strong time of year for surfing when considering it **is dry 78.3% of the time**.
 
 ## Summary
+Based on the precipitation and temperature data presented for Oahu, an argument could be made that opening a surf and ice cream shop would make good business sense.
+* Precipitation is, on average, **18%**, and the likelihood of a rainout would be minimal
+* Temperature is, on average, in the **70's**, thus warm enough for both surfing and selling ice cream
+
+If the board was still not convinced that this would be a good business proposition, then additional queries could be made:
+* Query to further analyze the precipitation in the Spring and Fall to include the months of March and Septmber
+* Query to further analyze the temperature in the Spring and Fall to include the months of March and September
+* Access Oahu tourism databases to determine vacationer travel patterns to determine which time of year is busy and not so busy
+
 
 
