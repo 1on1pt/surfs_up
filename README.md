@@ -80,7 +80,7 @@ Based on the precipitation and temperature data presented for Oahu, an argument 
 If the board was still not convinced that this would be a good year round business proposition, then additional queries could be made:
 * Query to further analyze the precipitation in the Spring and Fall to include the months of March and Septmber
 * Query to further analyze the temperature in the Spring and Fall to include the months of March and September
-* Access Oahu tourism databases to determine vacationer travel patterns to determine which time of year is busy and not so busy
+* Access and query Oahu tourism databases to determine vacationer travel patterns to determine which time of year is busy and not so busy
 
 
 
