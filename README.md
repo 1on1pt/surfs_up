@@ -7,8 +7,21 @@ I'm looking to open and surf and ice cream shop in Oahu, Hawaii and have been in
 The data was stored in SQLite as hawaii.sqlite and SQLAlchemy was used to query the database.  The queried information regarding precipitation and temperature was then converted to a dataframe for further analysis.  Analysis included descriptive statistics and plotting graphs.
 
 ### Resources
+Data Source:
 
+  * hawaii.sqlite
 
+Code:
+
+  * climate_analysis.ipynb
+  * SurfsUp_Challenge.ipynb
+
+Software:
+
+  * Python 3.7.6
+  * Pandas 1.3.5
+  * SQLAlchemy
+  * Jupyter Notebook
 
 ## Results
 
